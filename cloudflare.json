@@ -1,6 +1,6 @@
 {
     "main":"public/javascripts/sample_app.js",
-    "name":"Sample App",
+    "name":"Sample App",,
     "description": "A sample application to get you started with CloudFlare apps",
     "version": "0.0.1",
     "config":{
