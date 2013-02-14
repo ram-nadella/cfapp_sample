@@ -2,7 +2,7 @@
     "main":"public/javascripts/sample_app.js",
     "name":"Sample App New",
     "description": "A sample application to get you started with CloudFlare apps",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "account": {
         "callback_url": "http://serene-waters-1828.herokuapp.com",
         "user_fields": ["email"]
