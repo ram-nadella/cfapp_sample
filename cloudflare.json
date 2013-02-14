@@ -3,6 +3,7 @@
     "name":"Sample App New",
     "description": "A sample application to get you started with CloudFlare apps",
     "version": "0.0.2",
+    "category": "analytics",
     "account": {
         "callback_url": "http://serene-waters-1828.herokuapp.com",
         "user_fields": ["email"]
